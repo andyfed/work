@@ -1,3 +1,9 @@
+/* 
+*  "Char replacer" application code
+*  readme - "Char replacer - specification"
+*/
+
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
